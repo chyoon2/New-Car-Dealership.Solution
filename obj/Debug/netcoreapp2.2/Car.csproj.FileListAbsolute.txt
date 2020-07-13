@@ -1,0 +1,12 @@
+/Users/thekidnamedkd/Desktop/car-dealership/bin/Debug/netcoreapp2.2/Car.deps.json
+/Users/thekidnamedkd/Desktop/car-dealership/bin/Debug/netcoreapp2.2/Car.runtimeconfig.json
+/Users/thekidnamedkd/Desktop/car-dealership/bin/Debug/netcoreapp2.2/Car.runtimeconfig.dev.json
+/Users/thekidnamedkd/Desktop/car-dealership/bin/Debug/netcoreapp2.2/Car.dll
+/Users/thekidnamedkd/Desktop/car-dealership/bin/Debug/netcoreapp2.2/Car.pdb
+/Users/thekidnamedkd/Desktop/car-dealership/obj/Debug/netcoreapp2.2/Car.csprojAssemblyReference.cache
+/Users/thekidnamedkd/Desktop/car-dealership/obj/Debug/netcoreapp2.2/Car.AssemblyInfoInputs.cache
+/Users/thekidnamedkd/Desktop/car-dealership/obj/Debug/netcoreapp2.2/Car.AssemblyInfo.cs
+/Users/thekidnamedkd/Desktop/car-dealership/obj/Debug/netcoreapp2.2/Car.csproj.CoreCompileInputs.cache
+/Users/thekidnamedkd/Desktop/car-dealership/obj/Debug/netcoreapp2.2/Car.dll
+/Users/thekidnamedkd/Desktop/car-dealership/obj/Debug/netcoreapp2.2/Car.pdb
+/Users/thekidnamedkd/Desktop/car-dealership/obj/Debug/netcoreapp2.2/Car.genruntimeconfig.cache
