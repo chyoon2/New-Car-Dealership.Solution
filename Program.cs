@@ -40,6 +40,7 @@ namespace Dealership {
         Console.WriteLine(automobile.GetMiles() + " miles");
         Console.WriteLine("$" + automobile.GetPrice());
         Console.WriteLine(Car.MakeSound(carSound));
+        Console.WriteLine(automobile.MakeSoundByCar());
       }
     }
   }

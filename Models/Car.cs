@@ -21,6 +21,18 @@ namespace Dealership.Models {
       return "Our cars sound like " + sound;
     }
 
+    public string MakeSoundByCar ()
+    {
+      if (_miles < 200000)
+      {
+        return "beep";
+      }
+      else
+      {
+        return "honk";
+      }
+    }
+
     public int GetPrice()
     {
       return _price;
