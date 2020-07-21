@@ -27,5 +27,12 @@ namespace CarDealer.Controllers
       Car myCar = new Car(makeModel, priceInput, milesInput);
       return RedirectToAction("Index");
     }
+
+    [HttpPost("/cars/delete")]
+    public ActionResult DeleteAll()
+    {
+      Car.ClearAll();
+      return View();
+    }
   }
 }
