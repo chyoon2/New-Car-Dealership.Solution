@@ -1,6 +1,7 @@
 using System;
+using System.Collections.Generic;
 
-namespace Dealership.Models {
+namespace CarDealer.Models {
   public class Car
   {
     private string _makeModel;

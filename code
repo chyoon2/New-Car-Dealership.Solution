@@ -1,10 +1,4 @@
-using System;
-using System.Collections.Generic;
-using Dealership.Models;
-
-namespace Dealership {
-
-  public class Program
+public class Program
   {
     public static void Main()
     {
@@ -44,5 +38,3 @@ namespace Dealership {
       }
     }
   }
-
-}
