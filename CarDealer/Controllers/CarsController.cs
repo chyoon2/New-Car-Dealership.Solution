@@ -19,7 +19,7 @@ namespace CarDealer.Controllers
       return View();
     }
 
-    [HttpPost("/addcarform")]
+    [HttpPost("/cars")]
     public ActionResult AddCarForm(string makeModel, string miles, string price)
     {
       int milesInput = int.Parse(miles);
