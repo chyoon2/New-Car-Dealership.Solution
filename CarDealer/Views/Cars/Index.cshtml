@@ -1,0 +1,17 @@
+@using CarDealer.Models;
+
+<h1>Lonny's Lemons Dealership</h1>
+
+@if (Model.Count == 0)
+{
+  <p>There are no cars in the list.</p>
+}
+<ul>
+  @foreach (Car car in Model)
+  {
+    <li> @car.GetMakeModel(), @car.GetMiles(), $@car.GetPrice() </li>
+  }
+  
+</ul>
+
+<a href="/addcarform">Click to here to add a car</a>
